@@ -1,7 +1,12 @@
-# How to predict ($1: /data_root_dir/ ex: ./data , which contains test data folder) 
-Starter code for final project.
-```
-$ bash ./run.sh $1
-```
+# Person Re-identification
 
-可能需要ram >= 32g，另外整個test set需要約7.5小時才能predict結束
+<p align="center">
+  <img width="750" height="250" src="cast_id.png">
+</p>
+<p align="center">
+  <img width="750" height="250" src="temporal_link.png">
+</p>
+
+For more details, please refer to [Face Feature Recovery via Temporal Fusion for Person Search](https://ieeexplore.ieee.org/document/9053779) to view the details.
+
+
